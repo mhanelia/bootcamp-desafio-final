@@ -1,11 +1,11 @@
 
-# Desafio Agilizei N1
+# Desafio Agilizei N4
 
-Desafio do Chapter #1 proposto no Bootcamp de Cypress ministrado pelo @samlucax
+Desafio final proposto no Bootcamp de Cypress ministrado pelo @samlucax
 
-Consiste em validar o cadastro no http://automationpractice.com e publicar no GitHub Pages
+Consiste em validar a API disponível em https://treinamento-api.herokuapp.com
 
-## Ferramentas utilizadas:
+## Ferramentas utilizadas
 
 [Node.js](https://nodejs.org/)
 
@@ -15,7 +15,7 @@ Consiste em validar o cadastro no http://automationpractice.com e publicar no Gi
 
 [lib: cy-spok](https://github.com/bahmutov/cy-spok)
 
-## Instalação:
+## Instalação
 
 1- instalar o Node.js
 
